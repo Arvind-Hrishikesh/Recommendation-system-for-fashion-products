@@ -19,6 +19,8 @@ Submit a presentation with 8-10 slides with notes covering:
 ## Data
 https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data
 
+![](Jerry/H%20&%20M%20Data%20Schema.png)
+
 ## Work Distribution
 Zhe and Pooja: articles.csv
 
