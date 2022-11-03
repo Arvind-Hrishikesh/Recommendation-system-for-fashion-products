@@ -42,7 +42,7 @@ Transactions.csv summary:
   - price: price that the customer paid for the transaction, there are multiple prices for the same article, even on the same day/channel. According to data's contributor, the unit of price is not any "currency/unit" since they chose to not disclose the real values
   - sales_channel_id: it determines how the customer purchases the article, 2 is online and 1 store
 
-### Jerry:
+### Zhe:
 **<span style="color:#023e8a;"> The article.csv contains all h&m articles with details such as a type of product, a color, a product group and other features.</span>**  
 **<span style="color:#023e8a;"> Article data description: </span>**
 
